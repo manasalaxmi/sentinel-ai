@@ -1,0 +1,22 @@
+#sentinel-banner {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #1e1e1e;
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  z-index: 9999;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+#sentinel-banner button {
+  background: #ffffff;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
